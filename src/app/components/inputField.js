@@ -2,7 +2,9 @@ import React from 'react'
 
 function InputField() {
   return (
-    <div>InputField</div>
+    <div>
+        <input type="text" placeholder="Enter your name" />
+    </div>
   )
 }
 
